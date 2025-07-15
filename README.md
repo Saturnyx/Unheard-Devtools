@@ -23,14 +23,15 @@ scoop install unheard-devtools/pros
 
 ## Current Tools
 
-| Tool           | Version                                                                                                                      | Description |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| pros-toolchain | ARM GCC toolchain for PROS VEX V5 development                                                                                | v13.3.1     |
-| pros           | An open source C/C++ development environment for the VEX V5 microcontrolle                                                   | v3.5.5      |
-| termite        | Termite is an easy to use and easy to configure RS232 terminal                                                               | v3.4        |
-| wtq            | Turn any app into a Quake-style toggleable app                                                                               | v2.0.16     |
-| git-cola       | A highly-caffeinated, powerful, and intuitive graphical user interface for Git                                               | v4.13.0     |
-| zen-browser    | A privacy-focused browser that blocks trackers, ads, and other unwanted content while offering the best browsing experience! | v1.11.5b    |
+| Tool              | Version                                                                                                                      | Description |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| pros-toolchain    | ARM GCC toolchain for PROS VEX V5 development                                                                                | v13.3.1     |
+| pros              | An open source C/C++ development environment for the VEX V5 microcontrolle                                                   | v3.5.5      |
+| termite           | Termite is an easy to use and easy to configure RS232 terminal                                                               | v3.4        |
+| wtq               | Turn any app into a Quake-style toggleable app                                                                               | v2.0.16     |
+| git-cola          | A highly-caffeinated, powerful, and intuitive graphical user interface for Git                                               | v4.13.0     |
+| zen-browser       | A privacy-focused browser that blocks trackers, ads, and other unwanted content while offering the best browsing experience! | v1.11.5b    |
+| hdd-raw-copy-tool | HDD Raw Copy Tool is a utility for low-level, sector-by-sector hard disk duplication and image creation.                     | 1.20        |
 
 ## Licensing
 
