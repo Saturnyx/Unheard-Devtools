@@ -2,6 +2,25 @@
 
 A scoop bucket of random devtools that are not in the `Scoop/Extras` or `Scoop/Main` bucket.
 
+## Installation
+
+To install this bucket, run the following commands in PowerShell or Command Prompt:
+
+```powershell
+# Add the bucket
+scoop bucket add unheard-devtools https://github.com/saturnyx/unheard-devtools
+```
+
+```powershell
+# Install a tool from the bucket
+scoop install unheard-devtools/<tool-name>
+```
+
+```powershell
+# For example, to install PROS:
+scoop install unheard-devtools/pros
+```
+
 ## Current Tools
 
 | Tool           | Version                                                                    | Description |
