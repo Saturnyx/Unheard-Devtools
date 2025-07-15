@@ -32,6 +32,7 @@ scoop install unheard-devtools/pros
 | git-cola          | A highly-caffeinated, powerful, and intuitive graphical user interface for Git                                               | v4.13.0     |
 | zen-browser       | A privacy-focused browser that blocks trackers, ads, and other unwanted content while offering the best browsing experience! | v1.11.5b    |
 | hdd-raw-copy-tool | HDD Raw Copy Tool is a utility for low-level, sector-by-sector hard disk duplication and image creation.                     | 1.20        |
+| usbtreeview       | USB Device Tree Viewer                                                                                                       | 4.5.1       |
 
 ## Licensing
 
