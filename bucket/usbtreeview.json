@@ -1,21 +1,21 @@
 {
-    "version": "4.5.1",
+    "version": "4.5.3",
     "description": "USB Device Tree Viewer",
     "homepage": "https://www.uwe-sieber.de/usbtreeview_e.html",
     "license": "Freeware",
     "architecture": {
         "64bit": {
             "url": "https://www.uwe-sieber.de/files/UsbTreeView_x64.zip",
-            "hash": "11375d2d2d46eca599df990b47df4ac4855b7201b73e606ba41426c85ef46e80",
+            "hash": "68d1a1c7e3f582156ea9c1fc5080c0b2ed89fe091de0a648848ec69cb77992f4",
             "extract_dir": "x64"
         },
         "32bit": {
             "url": "https://www.uwe-sieber.de/files/UsbTreeView_Win32_VC6.zip",
-            "hash": "5b34bbe314a8e9125db3a3f21ed4761a4239a9aab136531519136d55937d2e09"
+            "hash": "443603ba371da35bcb1f990abff0f6dd444dbfdf6ed03132d30fbc2ff5c76529"
         },
         "arm64": {
             "url": "https://www.uwe-sieber.de/files/UsbTreeView_arm64.zip",
-            "hash": "ea107b16617efddf99183edff00900995d46b05bb848082c20f68364b83bb652",
+            "hash": "b34b145028d7ef8c862c351553a3651a00645778e6029188f275121389f58f80",
             "extract_dir": "arm64"
         }
     },
