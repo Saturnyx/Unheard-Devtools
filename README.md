@@ -42,6 +42,7 @@ scoop install unheard-devtools/git-cola unheard-devtools/zen-browser
 | pros              | v3.5.5    | An open source C/C++ development environment for the VEX V5 microcontroller                                                  |
 | pros-toolchain    | v13.3.1   | ARM GCC toolchain for PROS VEX V5 development                                                                                |
 | protobot          | v1.3.6    | A new actively maintained version of Protobot - VEX Robotics prototyping tool                                                |
+| python34          | v3.4.4    | Python 3.4.4 - Legacy Python version for compatibility (⚠️ End-of-life, security vulnerabilities)                         |
 | swift-v5          | v0.1.0    | LLVM toolchain manager for embedded Swift projects on the VEX V5 platform                                                   |
 | termite           | v3.4      | Termite is an easy to use and easy to configure RS232 terminal                                                               |
 | usbtreeview       | v4.5.3    | USB Device Tree Viewer                                                                                                       |
@@ -61,6 +62,7 @@ scoop install unheard-devtools/git-cola unheard-devtools/zen-browser
 
 - **git-cola** - Advanced Git GUI client
 - **curator** - Scoop bucket maintenance utility
+- **python34** - Legacy Python 3.4.4 for compatibility (⚠️ End-of-life)
 
 ### System Utilities
 
