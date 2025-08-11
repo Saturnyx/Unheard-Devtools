@@ -34,54 +34,54 @@ scoop install unheard-devtools/git-cola unheard-devtools/zen-browser
 
 ## Current Tools
 
-| Tool              | Version   | Description                                                                                                                  |
-| ----------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| curator           | v0.2.4    | Scoop bucket curator - helps maintain and organize Scoop packages                                                           |
-| git-cola          | v4.13.0   | A highly-caffeinated, powerful, and intuitive graphical user interface for Git                                               |
-| hdd-raw-copy-tool | v1.20     | HDD Raw Copy Tool is a utility for low-level, sector-by-sector hard disk duplication and image creation.                     |
-| pros              | v3.5.5    | An open source C/C++ development environment for the VEX V5 microcontroller                                                  |
-| pros-toolchain    | v13.3.1   | ARM GCC toolchain for PROS VEX V5 development                                                                                |
-| protobot          | v1.3.6    | A new actively maintained version of Protobot - VEX Robotics prototyping tool                                                |
-| python34          | v3.4.4    | Python 3.4.4 - Legacy Python version for compatibility (⚠️ End-of-life, security vulnerabilities)                         |
-| swift-v5          | v0.1.0    | LLVM toolchain manager for embedded Swift projects on the VEX V5 platform                                                   |
-| termite           | v3.4      | Termite is an easy to use and easy to configure RS232 terminal                                                               |
-| usbtreeview       | v4.5.3    | USB Device Tree Viewer                                                                                                       |
-| wtq               | v2.0.16   | Turn any app into a Quake-style toggleable app                                                                               |
-| zen-browser       | v1.14.9b  | A privacy-focused browser that blocks trackers, ads, and other unwanted content while offering the best browsing experience! |
+| Tool              | Description                                                                                                                  |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| curator           | Scoop bucket curator - helps maintain and organize Scoop packages                                                            |
+| git-cola          | A highly-caffeinated, powerful, and intuitive graphical user interface for Git                                               |
+| hdd-raw-copy-tool | HDD Raw Copy Tool is a utility for low-level, sector-by-sector hard disk duplication and image creation.                     |
+| pros              | An open source C/C++ development environment for the VEX V5 microcontroller                                                  |
+| pros-toolchain    | ARM GCC toolchain for PROS VEX V5 development                                                                                |
+| protobot          | A new actively maintained version of Protobot - VEX Robotics prototyping tool                                                |
+| python34          | Python 3.4.4 - Legacy Python version for compatibility (⚠️ End-of-life, security vulnerabilities)                            |
+| swift-v5          | LLVM toolchain manager for embedded Swift projects on the VEX V5 platform                                                    |
+| termite           | Termite is an easy to use and easy to configure RS232 terminal                                                               |
+| usbtreeview       | USB Device Tree Viewer                                                                                                       |
+| wtq               | Turn any app into a Quake-style toggleable app                                                                               |
+| zen-browser       | A privacy-focused browser that blocks trackers, ads, and other unwanted content while offering the best browsing experience! |
 
 ## Categories
 
 ### VEX Robotics Development
 
-- **pros** - Complete C/C++ development environment for VEX V5
-- **pros-toolchain** - ARM GCC compiler toolchain for VEX V5
-- **protobot** - VEX robotics prototyping and design tool
-- **swift-v5** - Embedded Swift development for VEX V5 platform
+-   **pros** - Complete C/C++ development environment for VEX V5
+-   **pros-toolchain** - ARM GCC compiler toolchain for VEX V5
+-   **protobot** - VEX robotics prototyping and design tool
+-   **swift-v5** - Embedded Swift development for VEX V5 platform
 
 ### Development Tools
 
-- **git-cola** - Advanced Git GUI client
-- **curator** - Scoop bucket maintenance utility
-- **python34** - Legacy Python 3.4.4 for compatibility (⚠️ End-of-life)
+-   **git-cola** - Advanced Git GUI client
+-   **curator** - Scoop bucket maintenance utility
+-   **python34** - Legacy Python 3.4.4 for compatibility (⚠️ End-of-life)
 
 ### System Utilities
 
-- **hdd-raw-copy-tool** - Low-level disk duplication utility
-- **termite** - RS232 serial terminal
-- **usbtreeview** - USB device hierarchy viewer
-- **wtq** - Quake-style app toggler
+-   **hdd-raw-copy-tool** - Low-level disk duplication utility
+-   **termite** - RS232 serial terminal
+-   **usbtreeview** - USB device hierarchy viewer
+-   **wtq** - Quake-style app toggler
 
 ### Web Browsers
 
-- **zen-browser** - Privacy-focused web browser
+-   **zen-browser** - Privacy-focused web browser
 
 ## Features
 
-- 🔄 **Auto-updates**: All packages are configured with automatic version detection
-- 📦 **Easy Installation**: Simple one-command installation via Scoop
-- 🛠️ **Specialized Tools**: Focus on developer tools not found in main Scoop buckets
-- 🤖 **VEX Robotics**: Comprehensive toolchain for VEX V5 development
-- 🔧 **System Utilities**: Various system administration and debugging tools
+-   🔄 **Auto-updates**: All packages are configured with automatic version detection
+-   📦 **Easy Installation**: Simple one-command installation via Scoop
+-   🛠️ **Specialized Tools**: Focus on developer tools not found in main Scoop buckets
+-   🤖 **VEX Robotics**: Comprehensive toolchain for VEX V5 development
+-   🔧 **System Utilities**: Various system administration and debugging tools
 
 ## Licensing
 
@@ -89,21 +89,21 @@ This repository is licensed under the MIT License.
 
 ### What You Can Do
 
-- Use the software for any purpose (commercial, personal, educational)
-- Copy and distribute the software
-- Modify the software and create derivative works
-- Distribute modified versions
-- Sell copies or include in proprietary software
+-   Use the software for any purpose (commercial, personal, educational)
+-   Copy and distribute the software
+-   Modify the software and create derivative works
+-   Distribute modified versions
+-   Sell copies or include in proprietary software
 
 ### What You Must Do
 
-- Include the original license and copyright notice in all copies
-- Give credit to the original authors when redistributing
+-   Include the original license and copyright notice in all copies
+-   Give credit to the original authors when redistributing
 
 ### What You Cannot Do
 
-- Hold authors liable for damages or issues caused by the software
-- Use authors' names to endorse derived products without permission
+-   Hold authors liable for damages or issues caused by the software
+-   Use authors' names to endorse derived products without permission
 
 > [!NOTE]
 > The MIT License only applies to this repository, not the apps and tools in it.
