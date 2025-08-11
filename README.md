@@ -53,35 +53,35 @@ scoop install unheard-devtools/git-cola unheard-devtools/zen-browser
 
 ### VEX Robotics Development
 
--   **pros** - Complete C/C++ development environment for VEX V5
--   **pros-toolchain** - ARM GCC compiler toolchain for VEX V5
--   **protobot** - VEX robotics prototyping and design tool
--   **swift-v5** - Embedded Swift development for VEX V5 platform
+- **pros** - Complete C/C++ development environment for VEX V5
+- **pros-toolchain** - ARM GCC compiler toolchain for VEX V5
+- **protobot** - VEX robotics prototyping and design tool
+- **swift-v5** - Embedded Swift development for VEX V5 platform
 
 ### Development Tools
 
--   **git-cola** - Advanced Git GUI client
--   **curator** - Scoop bucket maintenance utility
--   **python34** - Legacy Python 3.4.4 for compatibility (⚠️ End-of-life)
+- **git-cola** - Advanced Git GUI client
+- **curator** - Scoop bucket maintenance utility
+- **python34** - Legacy Python 3.4.4 for compatibility (⚠️ End-of-life)
 
 ### System Utilities
 
--   **hdd-raw-copy-tool** - Low-level disk duplication utility
--   **termite** - RS232 serial terminal
--   **usbtreeview** - USB device hierarchy viewer
--   **wtq** - Quake-style app toggler
+- **hdd-raw-copy-tool** - Low-level disk duplication utility
+- **termite** - RS232 serial terminal
+- **usbtreeview** - USB device hierarchy viewer
+- **wtq** - Quake-style app toggler
 
 ### Web Browsers
 
--   **zen-browser** - Privacy-focused web browser
+- **zen-browser** - Privacy-focused web browser
 
 ## Features
 
--   🔄 **Auto-updates**: All packages are configured with automatic version detection
--   📦 **Easy Installation**: Simple one-command installation via Scoop
--   🛠️ **Specialized Tools**: Focus on developer tools not found in main Scoop buckets
--   🤖 **VEX Robotics**: Comprehensive toolchain for VEX V5 development
--   🔧 **System Utilities**: Various system administration and debugging tools
+- 🔄 **Auto-updates**: All packages are configured with automatic version detection
+- 📦 **Easy Installation**: Simple one-command installation via Scoop
+- 🛠️ **Specialized Tools**: Focus on developer tools not found in main Scoop buckets
+- 🤖 **VEX Robotics**: Comprehensive toolchain for VEX V5 development
+- 🔧 **System Utilities**: Various system administration and debugging tools
 
 ## Licensing
 
@@ -89,21 +89,21 @@ This repository is licensed under the MIT License.
 
 ### What You Can Do
 
--   Use the software for any purpose (commercial, personal, educational)
--   Copy and distribute the software
--   Modify the software and create derivative works
--   Distribute modified versions
--   Sell copies or include in proprietary software
+- Use the software for any purpose (commercial, personal, educational)
+- Copy and distribute the software
+- Modify the software and create derivative works
+- Distribute modified versions
+- Sell copies or include in proprietary software
 
 ### What You Must Do
 
--   Include the original license and copyright notice in all copies
--   Give credit to the original authors when redistributing
+- Include the original license and copyright notice in all copies
+- Give credit to the original authors when redistributing
 
 ### What You Cannot Do
 
--   Hold authors liable for damages or issues caused by the software
--   Use authors' names to endorse derived products without permission
+- Hold authors liable for damages or issues caused by the software
+- Use authors' names to endorse derived products without permission
 
 > [!NOTE]
 > The MIT License only applies to this repository, not the apps and tools in it.
